@@ -1,5 +1,6 @@
 # expert_session_one_shishank-agrawal
-## Here I have done
+# Here I have written code for anime recomnedation.
+## This is what I have done:-
 ### >Merged the data sets AnimeList.csv and Anime_Data.csv to make a new data set 'AnimeDict'.
 ### >Performing memory efficient searching with Global Secondary Index.
 ### >Re Structioring of data.
